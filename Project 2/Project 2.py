@@ -1,3 +1,6 @@
+#The programmers for this code were Benjamin Amador and Jeffrey Weidritch
+#We used the time,math,sys, and matplotlib libraries/packages
+#I reused the code I had used for the activity during the week and improved/modified it
 # Python program to implement Runge Kutta method
 import time
 import math
