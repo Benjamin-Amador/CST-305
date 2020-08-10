@@ -1,3 +1,7 @@
+# The programmers for this project were Jeffrey Weidritch and Benjamin Amador
+# We used the packages numpy and matplotlib
+# We created a riemann sum function that can take an equation and intervals to give a solution which can then be plotted.
+
 import math
 import matplotlib
 import numpy as np
